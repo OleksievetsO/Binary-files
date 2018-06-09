@@ -1,0 +1,3 @@
+F:/WEB/CLion 2018.1/CLionProjects/Archives-megalzw lab 5 v0/cmake-build-debug/CMakeFiles/Archives_megalzw_lab_5_v0.dir
+F:/WEB/CLion 2018.1/CLionProjects/Archives-megalzw lab 5 v0/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/WEB/CLion 2018.1/CLionProjects/Archives-megalzw lab 5 v0/cmake-build-debug/CMakeFiles/rebuild_cache.dir

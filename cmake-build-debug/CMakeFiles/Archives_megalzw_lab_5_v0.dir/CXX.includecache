@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/WEB/CLion 2018.1/CLionProjects/Archives-megalzw lab 5 v0/main.cpp
+fstream
+-
+iostream
+-
+map
+-
+memory
+-
+string
+-
+vector
+-
+
